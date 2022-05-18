@@ -5,3 +5,5 @@ This program uses python's built-in module SQLite3. It uses simple SQL select qu
 There are many possibilities when it comes to the SQL browser tables including date and time accessed and the origin of the visit. 
 
 Future advancements of the program could include OOP integration to store the whole table for each website. Please let me know if you have any suggestions :)
+
+Note: the default database it is using is for chrome, for different broswers, locate the data folder on your machine and replace the dataPath variable with its path.
